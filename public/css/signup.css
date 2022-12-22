@@ -1,0 +1,42 @@
+form {
+    display: table-caption;
+    /* align-items: center; */
+    /* justify-content: center; */
+    margin: 50px;
+    padding: 0px;
+    /* text-align: center; */
+}
+
+button#sign-up {
+    background-color: black;
+    color: white;
+    padding: .4rem;
+    border-radius: 20px;
+    /* align-items: center; */
+    /* text-align: center; */
+    /* display: flex; */
+    /* left: 13px; */
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    margin: 80px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 13px;
+    color: white;
+    background-color: black;
+}
+
+button#forgot-password {
+    background-color: black;
+    color: white;
+    padding: .4rem;
+    border-radius: 20px;
+    /* align-items: center; */
+    /* text-align: center; */
+    /* display: flex; */
+    /* left: 13px; */
+    cursor: pointer;
+}

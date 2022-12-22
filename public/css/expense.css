@@ -1,0 +1,87 @@
+form {
+    margin: 8px;
+    /* border: 19px; */
+    padding: 13px;
+    column-gap: 15px;
+    box-sizing: border-box;
+    background-color: burlywood;
+}
+
+label {
+    font-size: 20px;
+}
+
+button#add-expense {
+    border-radius: 10px;
+    border: solid 1px rebeccapurple;
+    background-color: black;
+    color: white;
+}
+
+section#daily-expense {}
+
+button {
+    color: white;
+    background-color: black;
+    padding: 2px;
+    /* border: 1px solid rebeccapurple; */
+    border-radius: 5px;
+}
+
+section#daily-expense {
+    display: flex;
+    column-gap: 20px;
+}
+
+section#details {
+    padding: 10px;
+    background: grey;
+    margin: 11px;
+}
+
+h1 {size: 10px;color: black;border-bottom: 1px solid white;}
+
+li#\32 {
+    /* column-gap: 10px; */
+    padding: 5px;
+}
+
+button {
+    /* top: 0; */
+    /* column-gap: 8px; */
+}
+
+section#leaderboard {
+    background: grey;
+    padding: 10px;
+}
+
+li {
+    padding: 5px;
+}
+
+section#premium-tag {
+    /* border: 1px solid; */
+}
+
+a#expense-details {
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    background: black;
+}
+
+div#pagination {
+    text-align: center;
+}
+
+div#pagination button {
+    margin: 5px;
+}
+div#pagination button:hover,
+div#pagination button:active{
+    background: white;
+    color: black;
+  }

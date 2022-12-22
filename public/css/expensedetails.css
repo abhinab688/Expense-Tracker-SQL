@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+section#details {
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    background: lightgreen;
+}
+
+button#download {
+    padding: 11px;
+    /* text-align: center; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin: auto;
+    /* left: 10px; */
+    display: flex;
+    color: white;
+    background: black;
+    border-radius: 8px;
+    cursor: pointer;
+}
